@@ -1,0 +1,27 @@
+<html>
+<body>
+<h1>Unalphabetized list</h1>
+Alan<sub>3</sub><br>
+Angela<sub>5</sub><br>
+Anjala<sub>6</sub><br>
+Sandra<sub>7</sub><br>
+Vicky<sub>9</sub><br>
+Tom<sub>8</sub><br>
+Wilfred<sub>10</sub><br>
+James<sub>4</sub><br>
+Adam<sub>1</sub><br>
+Anna<sub>2</sub>
+<h1>Alphabetized list</h1>
+Adam<br>
+Anna<br>
+Alan<br>
+James<br>
+Angela<br>
+Anjala<br>
+Sandra<br>
+Tom<br>
+Vicky<br>
+Wilfred<br>
+
+</body>
+</html>

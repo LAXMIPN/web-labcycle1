@@ -1,0 +1,23 @@
+<html>
+<body>
+
+
+
+<h2>FRUITS</h2>
+
+<ol>
+  <li>Apple</li>
+  <li>orange</li>
+  <li>Mango</li>
+</ol> 
+<h2>FLOWER</h2>
+
+<ul>
+  <li>Rose</li>
+  <li>Lily</li>
+  <li>Lotus</li>
+  <li>Jasmin</li>
+</ul>  
+</body>
+</html>
+

@@ -1,0 +1,19 @@
+<html>
+    <head>
+    <title>I love HTML!!!</title>
+    </head>
+<body>
+    <center><h1>HTML Practice Excercise</h1><br>
+    <font size ="5" color="blue"><u> <b>James madison University</b></u></font></center>
+<hr>
+    I love HTML because:<br>
+<ol>
+    <li>I learned it quickly.
+    <li>I can make web pages using code.
+    <li>It is fun
+</ol>
+<hr>
+    My professor's e-mail address is <a href="">clarketb@jmu.edu</a>
+<br><h1><b>Have a great day!</h1></b>
+</body>
+</html>

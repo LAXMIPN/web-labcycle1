@@ -1,0 +1,14 @@
+<html>
+<body>
+    <abbr title="Abstract">Abstr.</abbr><br><br>
+    <abbr title="Biochemistry">Biochem.</abbr><br><br>
+    <abbr title="Example">Ex.</abbr><br><br>
+    <abbr title="Literature">Lit.</abbr><br><br>
+    <abbr title="Mathematics">Math.</abbr><br><br>
+    <acronym title="World Wide Web ">W3C</acronym><br><br>
+    <acronym title="Institute of Electrical and Electronic Engineers ">IEEE</acronym><br><br>
+    <acronym title="International Standard Organization">ISO</acronym><br><br>
+    <acronym title="Hyper Text Markup Language ">HTML</acronym><br><br>
+    <acronym title="Beginners All Purpose Symbolic Instruction Code">BASIC</acronym><br><br>
+</body>
+</html>

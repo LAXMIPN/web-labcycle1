@@ -1,0 +1,7 @@
+<html>
+<head>
+</head>
+<body>
+<p><i><u>Harry Potter</u> is a series of seven fantasy novels written by British author <u>J. K. Rowling</u>. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley,,<b> all of whom are students at Hogwarts School of Witchcraft and Wizardry.</b></i></p> 
+</body>
+</html>
