@@ -1,0 +1,8 @@
+<html>
+<body>
+<a rel="noopener" target="_blank" href="#facebook_ads_example">Click here to see an example of how a company uses Facebook ads.</a>
+
+
+</body>
+
+</html>

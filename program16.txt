@@ -1,0 +1,9 @@
+Create links to three different pages on three different websites that should all open in a
+new window.
+<html>
+<body>
+<a href="https://www.w3schools.com/html/default.asp>W3 SCHOOL</a>
+<a href="https://www.tutorialspoint.com/market/business/subscription.jsp?gclid=CjwKCAjw69moBhBgEiwAUFCx2ItiMi-0AmFnz_nX2PyeUQliSewHih1rRa_8iW_yQySgYx4nZ5gZVRoCDBkQAvD_BwE">tutorials point</a>
+< a href="https://www.youtube.com/">youtube</a>
+</body>
+</html>

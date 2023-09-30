@@ -1,0 +1,11 @@
+#lakshmi prasannan
+#1. Create an html page to display the following nested list
+<html>
+<body>
+<h1>An ordered list:</h1>
+<ol>
+<p> coffee</p>
+<p> tea </p>
+</body>
+
+</html>
